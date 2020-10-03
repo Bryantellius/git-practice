@@ -10,4 +10,6 @@
 
 - Here is my second edit.
 
-- Here is my third and final edit.
+- Here is my third edit.
+
+- Added different file types.
